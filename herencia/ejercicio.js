@@ -14,7 +14,6 @@ class Perro extends Animal{
     this.pulgas = pulgas;
     this.peludo = peludo;
    }
-
    ladrar(){
     return "guau";
    }
