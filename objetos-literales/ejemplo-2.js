@@ -13,6 +13,7 @@ const cinthya = {
 // const clave = "intereses";
 
 // Tambien podemos acceder a los atributos de nuestros objetos
-// mediante la notacion de corchetes cuadrados
+// mediante la notacion de corchetes cuadrados, square brackets
 console.log(cinthya["primer nombre"]);
 console.log(cinthya["x" + 1]);
+

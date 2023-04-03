@@ -1,6 +1,6 @@
 "use strict";
 
-// objetos literales != objetos de poo (programacion orientada a ojetos)
+// objetos literales != objetos de poo (programacion orientada a ojetos), oop (object oriented programming)
 const jaguar = {
   // se les asigna atributos/propiedades
   // clave : valor, sintaxis para añadir propiedades y metodos
